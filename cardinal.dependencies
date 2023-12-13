@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "device_xiaomi_topaz-kernel",
+    "target_path": "device/xiaomi/topaz-kernel"
+  },
+  {
+    "repository": "vendor_xiaomi_topaz",
+    "target_path": "vendor_xiaomi_topaz"
+  }
+]

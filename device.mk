@@ -395,9 +395,9 @@ PRODUCT_PACKAGES += \
     WifiResCommon \
     WifiResTarget
 
-# Overlays Lineage
+# Overlays Cardinal
 DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay-lineage
+    $(LOCAL_PATH)/overlay-cardinal
 
 # Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
